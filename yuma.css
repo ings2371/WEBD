@@ -3,15 +3,15 @@
 backround-color: black;
 float: left;
 display: block;
-color: skyblue;
+color: blue;
 text-align: center;
 padding: 10px 12px
 } 
 
 /*this changes the color when hovering over it*/
 .topnav a:hover{
-backround-color: MediumSeaGreen;
-color: SlateBlue;
+backround-color: grey;
+color: green;
 }
 
 
