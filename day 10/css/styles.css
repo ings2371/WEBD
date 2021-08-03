@@ -1,9 +1,8 @@
-<style>
-
 #gx1{
 border: 2px solid blue;
 padding: 10px;
 }
+
 #gx2{
 font-size:110%;
 border: 1px solid red;
@@ -33,7 +32,6 @@ border: 2px solid green;
 padding: 8px;
 }
 
-<style>
 * {
   box-sizing: border-box;
 }
@@ -93,4 +91,3 @@ color:darkred;
 .col-10 {width: 83.33%;}
 .col-11 {width: 91.66%;}
 .col-12 {width: 100%;}
-</style>
