@@ -79,6 +79,13 @@ color:darkred;
  border: 1px solid red;
  }
 
+ /*this affects the footer for all*/
+#vrn1{
+  border: 1px solid black;
+padding: 5px;
+  background-color:white;
+  }
+
 .col-1 {width: 8.33%;}
 .col-2 {width: 16.66%;}
 .col-3 {width: 25%;}
